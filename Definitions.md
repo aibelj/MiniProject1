@@ -1,0 +1,1 @@
+Repository - sometimes called repo, refers to a location people store their files for a project they are working. Each project has a district repository that can be accessed through its url. It's like a book with chapters and pages.
