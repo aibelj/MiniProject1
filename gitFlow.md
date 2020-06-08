@@ -1,4 +1,6 @@
-*GitFlow helps you simplify working on branch sites with over bit commands**
+![GitFlow](https://wpdevkvk.files.wordpress.com/2017/03/diagram.png?resize=900%2C506)
+
+**GitFlow helps you simplify working on branch sites with over bit commands**
 
 **Git flow branch names:**
 
